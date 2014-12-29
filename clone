@@ -1,1 +1,2 @@
 Explain what git clone does, in your own words
+git clone - clones a repository into a new directoy. This can be achieved from a github repository by copying the url of the github repository and adding it after the command git clone. The Clone will be a copy of the repository including all files and version history.
