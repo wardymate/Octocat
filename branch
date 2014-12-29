@@ -1,1 +1,2 @@
 Explain what a branch is, in your own words
+A branch is an alternate version of a project where additional features can be added or created without affecting the 'master' branch. You can work on several branches simultaneuosly without affectng the master branch. branches can be merged with the master branch at any time.
